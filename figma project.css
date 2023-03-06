@@ -1,0 +1,44 @@
+#carousel-caption{
+  margin-bottom: 270px;
+}
+#bottom{
+  margin-top: 29%;
+}
+.circle{
+border-radius: 20px;
+}
+@media(max-width:900px){
+#first{
+width: 99% !important;
+}
+#img{
+width: 100%;
+height: 100% !important;
+
+}
+#small{
+height: 100% !important;
+width: 100% !important;
+}
+#all{
+height: 200px !important;
+}
+#nav{
+width: 99% !important;
+}
+#carouselExampleCaptions{
+width: 99% !important;
+}
+#carousel-caption{
+margin-bottom: 0%;
+}
+#bottom{
+margin-top: 6%;
+}
+#imgoverlay{
+margin-top: 65px !important;
+}
+#subimgoverlay{
+font-size:medium;
+}
+}   

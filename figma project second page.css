@@ -1,0 +1,20 @@
+
+#firstimg{
+    height: 400px;
+}
+
+#subimg{
+    height: 150px;
+}
+@media(max-width:900px){
+    #firstimg{
+     height: 250px !important;
+    }
+    #subimg{
+        height: 70px !important;
+    }
+    #circle{
+        margin-top: auto !important;
+    }
+
+}
